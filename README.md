@@ -62,8 +62,7 @@
 #### 处理数据层事件
 
 # 创建表盘
-
-#### 设计表盘
+#### [设计表盘][2]
 
 #### 构建表盘Service
 
@@ -79,4 +78,6 @@
 
 #### 获取地理位置
 
+
   [1]: https://developer.android.com/training/building-wearables.html
+  [2]: https://github.com/pwh0996/Android_Wear_API_CHS/blob/master/%E4%B8%BA%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E5%88%9B%E5%BB%BAAPP%5BBuilding%20Apps%20for%20Wearables%5D/%E5%88%9B%E5%BB%BA%E8%A1%A8%E7%9B%98%5BCreating%20Watch%20Faces%5D/%E8%AE%BE%E8%AE%A1%E8%A1%A8%E7%9B%98%20%5BDesigning%20Watch%20Face%5D.md

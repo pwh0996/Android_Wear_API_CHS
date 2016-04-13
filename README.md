@@ -10,7 +10,7 @@
 
 # 当前阶段
 
-
+###[翻译目录][1]
 
 # 译者记录
 
@@ -29,11 +29,13 @@
     * 创建2D_Picker
     * 显示确认
     * 退出全屏界面
+
 * 添加Android Wear通知
     * 创建通知
     * 在通知中接收语音输入
     * 给通知添加页面
     * 叠加通知
+
 * 发送和同步数据
     * 访问数据层
     * 同步数据项
@@ -51,8 +53,6 @@
     * 优化性能和电池续航
     * 获取地理位置
 
-
-
 # 贡献力量
 
 如果想做出贡献的话，你可以：
@@ -67,9 +67,6 @@
 如果你愿意一起校对的话，请仔细阅读：
 
 - 使用markdown进行翻译，文件名必须使用英文，因为中文的话gitbook编译的时候会出问题
-
-
-谢谢！
 
 # 关于术语
 
@@ -101,3 +98,6 @@
 
 # 开源协议
 基于[WTFPL](http://en.wikipedia.org/wiki/WTFPL)协议开源。
+
+
+  [1]: https://github.com/pwh0996/Android_Wear_API_CHS/blob/master/Building_Apps_for_Wearables/index.md
